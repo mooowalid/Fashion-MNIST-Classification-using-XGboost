@@ -56,17 +56,3 @@ The best model was deployed using **Gradio**, allowing users to upload images an
 pip install gradio joblib xgboost scikit-learn pandas numpy pillow
 streamlit run app.py
 
-###🧪 Example Classes
-makefile
-Copy
-Edit
-0: T-shirt/top
-1: Trouser
-2: Pullover
-3: Dress
-4: Coat
-5: Sandal
-6: Shirt
-7: Sneaker
-8: Bag
-9: Ankle boot
