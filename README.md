@@ -1,10 +1,8 @@
-wesome work, Mohamed! 🎉 Your project covers everything from preprocessing to deployment — well done.
+Social Links
+YT : https://www.youtube.com/watch?v=RQ3yKhto-bM
+Linkedin : https://www.linkedin.com/posts/mohamedwalidd_machinelearning-datascience-fashionmnist-activity-7351796285810556929-TFJJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4u4oEBoLuhlgedCmwCiETrObU0wUmZZKs
+Kaggle : https://www.kaggle.com/code/mooowalid/fashion-mnist-classification-using-xgboost
 
-Here’s a clean, professional README.md you can use for your GitHub repository:
-
-markdown
-Copy
-Edit
 # 👕 Fashion-MNIST Classification with Random Forest, XGBoost & Gradio
 
 This project is a complete machine learning pipeline built for classifying images from the **Fashion-MNIST** dataset. It includes data preprocessing, exploratory data analysis (EDA), model training (Random Forest & XGBoost), model comparison, and an interactive web app deployed using **Gradio**.
