@@ -50,9 +50,4 @@ The [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset is
 
 The best model was deployed using **Gradio**, allowing users to upload images and get real-time predictions.
 
-### ▶️ Try the App (Locally)
-
-```bash
-pip install gradio joblib xgboost scikit-learn pandas numpy pillow
-streamlit run app.py
 
